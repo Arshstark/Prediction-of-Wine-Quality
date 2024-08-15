@@ -11,6 +11,7 @@ The objectives of this project are as follows:
 --> To determine which features are the most indicative of a good quality wine
 
 # Steps included in this project:
+
 Importing Lib
 Loading Data
 Understanding Data
